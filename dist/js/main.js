@@ -1,0 +1,1 @@
+console.log("This is file 1"),console.log("This is file 1 log 2 edited"),console.log("This is file 2"),alert("This is file 2 watch gulp again and again");
